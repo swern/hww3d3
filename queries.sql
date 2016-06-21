@@ -1,3 +1,2 @@
 
-SELECT AVG(price) FROM shows;
-
+SELECT name FROM users WHERE name LIKE '%er%';
